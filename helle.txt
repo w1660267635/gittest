@@ -8,6 +8,5 @@ hello word
 hello word
 hello word
 hello word
-hello word
-222222
-3333333333333
+33333333
+2222
